@@ -1,0 +1,260 @@
+
+
+//CFMainViewController.m
+//----------------------------------
+"Loading..." = "Loading...";
+
+"Config" = "Config";
+
+"Macro" = "Macro";
+
+"macro limit 8" = "macro limit 8";
+
+"config limit 8" = "config limit 8";
+
+"Delete..." = "Delete...";
+
+"Edit" = "Edit";
+
+"New" = "New";
+
+"Load" = "Load";
+
+"Backup" = "Backup";
+
+"Please sign in first" = "Please sign in first";
+
+"confirm" = "confirm";
+
+
+//CFEditViewController.m
+//---------------------------------
+"Listening" = "Listening";
+
+"HotKey repeat" = "HotKey repeat";
+
+"please change another one" = "please change another one";
+
+"Edit Config" = "Edit Config";
+
+"Mouse" = "Mouse";
+
+"Keyboard" = "Keyboard";
+
+"Preferences" = "Preferences";
+
+"Save" = "Save";
+
+"Cancel" = "Cancel";
+
+"Sensitivity" = "Sensitivity";
+
+"HIP" = "HIP";
+
+"ADS" = "ADS";
+
+"Sync" = "Sync";
+
+"Ballistics" = "Ballistics";
+
+"Dead Zone" = "Dead Zone";
+
+
+"Shooting Speed Strengthen" = "Shooting Speed Strengthen";
+
+"Inverted Y Axis" = "Inverted Y Axis";
+
+"Sniper Breath" = "Sniper Breath";
+
+"Anti Recoil" = "Anti Recoil";
+
+
+//MCCreateViewController.m
+//---------------------------------
+"Saving..." = "Saving...";
+
+"FileName repeat" = "FileName repeat";
+
+"please change other Name" = "please change other Name";
+
+
+"Edit  Macro" = "Edit  Macro";
+
+"Create  Macro" = "Create  Macro";
+
+"Save" = "Save";
+
+"Cancel" = "Cancel";
+
+" Follow " = " Follow ";
+
+" Sync " = " Sync ";
+
+" Delay " = " Delay ";
+
+"ms" =  "ms";
+
+"Save Changes?" = "Save Changes?";
+
+
+"Incorrect HotKey" = "Incorrect HotKey";
+
+"Please check range to F1~F10" = "Please check range to F1~F10";
+
+"HotKey Repeat" = "HotKey Repeat";
+
+"Please change another one" = "Please change another one";
+
+"Please set HotKey" = "Please set HotKey";
+
+
+
+//CustomizedCell.m
+//---------------------------------
+"Delete" = "Delete";
+
+
+//CFCreateViewController.m
+//---------------------------------
+"Create New" = "Create New";
+
+"Custom" = "Custom";
+
+"Elite" = "Elite";
+
+
+//CFBackupViewController
+"Download..." = "Download...";
+
+"Sharing..." = "Sharing....";
+
+"WithDrawing..." = "WithDrawing...";
+
+
+//Landing
+
+"Sniper Scanning..." = "Sniper Scanning...";
+
+"Bluetooth not connected" = "Bluetooth not connected";
+
+"Write Failed" = "Write Failed";
+
+"Bluetooth not connected" = "Bluetooth not connected";
+
+"Disconnect" = "Disconnect";
+
+"Please try again" = "Please try again";
+
+"Retry" = "Retry";
+
+"Skip" = "Skip";
+
+"Sniper Loading Config..." = "Sniper Loading Config...";
+
+"Sniper Loading Macro..." = "Sniper Loading Macro...";
+
+"Sniper Connecting..." = "Sniper Connecting...";
+
+"Exit BrookSniper?" = "Exit BrookSniper?";
+
+"Back" = "Back";
+
+"Exit" = "Exit";
+
+"This App Software License Agreement (the “Agreement”) is made by and between Zeroplus Technology Co., LTD., a Taiwan company, with offices at 3F., No.123, Jian 8th Rd., Zhonghe Dist., New Taipei City on behalf of it and the company or entity downloading, installing and/or using certain of Zeroplus’ Licensed Property(“Customer”). This Agreement is effective immediately upon installation of the Licensed Property (the “Effective Date”).\n\nEnd User License Agreement \nWhenever you download or use any APP published by Zeroplus, this End User License Agreement (“License”) applies to you. By downloading and/or using an App, you are agreeing to this License. If you don’t agree with any of these terms, you cannot download or use our Apps. \n\n1. Changes to this License \nWe reserve the right to change all or part of the License at any time. If we do that, we will post the changed terms to the same web page as the old terms. IF YOU CONTINUE TO USE AN APP AFTER WE POST CHANGED TERMS, THAT USE WILL CONSTITUTE YOUR ACCEPTANCE OF THE CHANGED TERMS. \n\n2. Changes to the Apps, Services and/or Fees \nWe are constantly evolving our products. This means we may change or discontinue an App (and/or our website and any of our other services) without notice or liability to you. We may decide to charge (or charge more) for an App and/or services that integrate with an App. \n\n3. License Grant \nSubject to the restrictions this License, Zeroplus grants you a non-exclusive, non-transferable, non-sublicensable, limited license to download, install and use in object code form a single copy of the App on each of your devices (e.g., your mobile phone, PDA, computer). Any attempt to use the App other than as permitted by this License will immediately terminate the license. \n 2/7 Except for the rights explicitly granted in this License, Zeroplus retains all right, title and interest (including all intellectual property rights) in the Apps, including the copies of the App on your devices. Zeroplus may use third-party software that is subject to open source and/or third-party license terms. You are subject to those terms. \n\n4. License Restrictions \nYou may not: \n• rent, lease, sublicense, sell, assign, loan, or otherwise transfer the App, your copy of the App or any of your rights and obligations under this License; \n• remove or destroy any copyright notices or other proprietary markings on the App; \n• reverse engineer, decompile, disassemble, modify or adapt the App, merge the App into another program, or create derivative works of the App; \n• use the App in any unlawful manner, for any unlawful purpose, or in any manner inconsistent with this License. \n\n5. Termination \nThis License will terminate automatically upon the earlier of: (a) your failure to comply with any term of this License (whether or not we inform you of this termination); (b) you deleting the App(s) from your devices; and (c) if your are using the App(s) in connection with a paid service, the end of the time period specified at time of purchase. In addition, Zeroplus may terminate this License at any time, for any reason or no reason. If this License terminates, you must stop using the App(s) and delete them from your devices. \n\n6. Compliance \nYou are solely responsible for compliance with any applicable laws and regulations and your own contractual obligations to third parties. \n\n7. Privacy policy \nIf you download and/or use an App, you are subject to our privacy policy which we will use data/information you provide us to our related services only. \n\n8. Transmission of Data/Updates \nUse of an App may involve the transmission of data over the Internet to Zeroplus and to and from third parties. If you elect to receive automatic updates, we will push updates to your devices but we will always notify you first. \n\n9. Trademarks \nCertain of the product and service names used in this License and in the App may constitute trademarks of Zeroplus or third parties. You are not authorized to use any such trademarks. All trademarks are the property of their respective owners. \n\n10. Miscellaneous \nThe Terms and this License are the entire agreement between you and Zeroplus relating to the Apps and they supersede all prior oral or written communications and representations with respect to any App or any other subject matter covered by this License.\n\n" = "This App Software License Agreement (the “Agreement”) is made by and between Zeroplus Technology Co., LTD., a Taiwan company, with offices at 3F., No.123, Jian 8th Rd., Zhonghe Dist., New Taipei City on behalf of it and the company or entity downloading, installing and/or using certain of Zeroplus’ Licensed Property(“Customer”). This Agreement is effective immediately upon installation of the Licensed Property (the “Effective Date”).\n\nEnd User License Agreement \nWhenever you download or use any APP published by Zeroplus, this End User License Agreement (“License”) applies to you. By downloading and/or using an App, you are agreeing to this License. If you don’t agree with any of these terms, you cannot download or use our Apps. \n\n1. Changes to this License \nWe reserve the right to change all or part of the License at any time. If we do that, we will post the changed terms to the same web page as the old terms. IF YOU CONTINUE TO USE AN APP AFTER WE POST CHANGED TERMS, THAT USE WILL CONSTITUTE YOUR ACCEPTANCE OF THE CHANGED TERMS. \n\n2. Changes to the Apps, Services and/or Fees \nWe are constantly evolving our products. This means we may change or discontinue an App (and/or our website and any of our other services) without notice or liability to you. We may decide to charge (or charge more) for an App and/or services that integrate with an App. \n\n3. License Grant \nSubject to the restrictions this License, Zeroplus grants you a non-exclusive, non-transferable, non-sublicensable, limited license to download, install and use in object code form a single copy of the App on each of your devices (e.g., your mobile phone, PDA, computer). Any attempt to use the App other than as permitted by this License will immediately terminate the license. \n 2/7 Except for the rights explicitly granted in this License, Zeroplus retains all right, title and interest (including all intellectual property rights) in the Apps, including the copies of the App on your devices. Zeroplus may use third-party software that is subject to open source and/or third-party license terms. You are subject to those terms. \n\n4. License Restrictions \nYou may not: \n• rent, lease, sublicense, sell, assign, loan, or otherwise transfer the App, your copy of the App or any of your rights and obligations under this License; \n• remove or destroy any copyright notices or other proprietary markings on the App; \n• reverse engineer, decompile, disassemble, modify or adapt the App, merge the App into another program, or create derivative works of the App; \n• use the App in any unlawful manner, for any unlawful purpose, or in any manner inconsistent with this License. \n\n5. Termination \nThis License will terminate automatically upon the earlier of: (a) your failure to comply with any term of this License (whether or not we inform you of this termination); (b) you deleting the App(s) from your devices; and (c) if your are using the App(s) in connection with a paid service, the end of the time period specified at time of purchase. In addition, Zeroplus may terminate this License at any time, for any reason or no reason. If this License terminates, you must stop using the App(s) and delete them from your devices. \n\n6. Compliance \nYou are solely responsible for compliance with any applicable laws and regulations and your own contractual obligations to third parties. \n\n7. Privacy policy \nIf you download and/or use an App, you are subject to our privacy policy which we will use data/information you provide us to our related services only. \n\n8. Transmission of Data/Updates \nUse of an App may involve the transmission of data over the Internet to Zeroplus and to and from third parties. If you elect to receive automatic updates, we will push updates to your devices but we will always notify you first. \n\n9. Trademarks \nCertain of the product and service names used in this License and in the App may constitute trademarks of Zeroplus or third parties. You are not authorized to use any such trademarks. All trademarks are the property of their respective owners. \n\n10. Miscellaneous \nThe Terms and this License are the entire agreement between you and Zeroplus relating to the Apps and they supersede all prior oral or written communications and representations with respect to any App or any other subject matter covered by this License.\n\n";
+
+"APP SOFTWARE LICENSE AGREEMENT" = "APP SOFTWARE LICENSE AGREEMENT";
+
+//Home
+
+"Bluetooth connected" = "Bluetooth connected";
+
+"Bluetooth disconnected" = "Bluetooth disconnected";
+
+"Keyboard:" = "Keyboard:";
+
+"Hotkey:" = "Hotkey:";
+//About
+
+"Copyright© Brook Design, LLC. All Rights Reserved" = "Copyright© Brook Design, LLC. All Rights Reserved";
+
+"APP Version:" = "APP Version:";
+
+"Latest" = "Latest";
+
+"Firmware Version:" = "Firmware Version:";
+
+"Update" = "Update";
+
+"www.brookaccessory.com\nbrook@brookaccessory.com" = "www.brookaccessory.com\nbrook@brookaccessory.com";
+
+//Help
+
+"Q&A" = "Q&A";
+
+"User guide" = "User guide";
+
+//Setting
+
+"Select language" = "Select language";
+"Save" = "Save";
+
+//Help
+
+"Get" = "Get";
+
+"user guide.pdf" = "user guide.pdf";
+
+"Contact us" = "Contact us";
+
+"Go" = "Go";
+
+"Brook Contact Us Form" = "Brook Contact Us Form";
+
+"a. Question" = "%. Question";
+
+//Login
+
+"E-mail" = "E-mail";
+
+"Password" = "Password";
+
+"Login" = "Login";
+
+"Login Fail" = "Login Fail";
+
+"Regist Fail" = "Regist Fail";
+
+"Logged in" = "Logged in";
+
+"Remember me" = "Remember me";
+
+"Login Success" = "Login Success";
+
+"Please agree term" = "Please agree term";
+
+"Create\nAccount" = "Create\nAccount";
+
+"Forgot\nPassword" = "Forgot\nPassword";
+
+"Connect fail" = "Connect fail";
+
+"Please check your wifi" = "Please check your wifi";
+
+
+//E-mail格式不正確
+"E-mail incorrect" = "E-mail incorrect";
+
+"Password length must between 6-20" = "Password length must between 6-20";
+
+"Comfirm password is not the same as password" = "Comfirm password is not the same as password";
+
+"Comfirm" = "Comfirm";
+
+"Log in fail" = "Log in fail";
+
+"OK" = "OK";
+
+"Setting" = "Setting";
+"About" = "About";
+"Help" = "Help";

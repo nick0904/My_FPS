@@ -1,0 +1,268 @@
+
+
+
+//CFMainViewController
+//----------------------------------
+"Loading..." = "載入中...";
+
+"Config" = "Config";
+
+"Macro" = "巨集";
+
+"macro limit 8" = "巨集上限為8組";
+
+"config limit 8" = "config上限為8組";
+
+"Delete..." = "刪除中...";
+
+"Edit" = "編輯";
+
+"New" = "新增";
+
+"Load" = "載入";
+
+"Backup" = "備份";
+
+"Please sign in first" = "請 先 登 入";
+
+"confirm" = "確認";
+
+
+
+//CFEditViewController
+//---------------------------------
+"Listening" = "Listening";
+
+"HotKey repeat" = "熱鍵重覆";
+
+"please change another one" = "已有相同熱鍵,請更換";
+
+"Edit Config" = "編輯 Config";
+
+"Mouse" = "滑鼠";
+
+"Keyboard" = "鍵盤";
+
+"Preferences" = "偏好設定";
+
+"Save" = "儲存";
+
+"Cancel" = "取消";
+
+"Sensitivity" = "靈敏度";
+
+"HIP" = "滑鼠";
+
+"ADS" = "瞄準射擊";
+
+"Sync" = "同 步";
+
+"Ballistics" = "曲 線";
+
+"Dead Zone" = "盲 區";
+
+
+"Shooting Speed Strengthen" = "射 速 加 強";
+
+"Inverted Y Axis" = "反 轉 Y 軸";
+
+"Sniper Breath" = "狙擊屏息";
+
+"Anti Recoil" = "反後座力";
+
+
+
+//MCCreateViewController
+//---------------------------------
+"Saving..." = "儲存中...";
+
+"FileName repeat" = "已有相同檔名";
+
+"please change other Name" = "請更換其它檔名";
+
+
+"Edit  Macro" = "編輯 巨集";
+
+"Create  Macro" = "新增 巨集";
+
+"Save" = "儲存";
+
+"Cancel" = "取消";
+
+" Follow " = "  接續 ";
+
+" Sync " = " 同步 ";
+
+" Delay " = " 接續且延遲 ";
+
+"ms" =  "毫秒";
+
+"Save Changes?" = "儲存變更 ?";
+
+
+"Incorrect HotKey" = "熱鍵錯誤";
+
+"Please check range to F1~F10" = "巨集熱鍵不可設定F1~F10";
+
+"HotKey Repeat" = "熱鍵重覆";
+
+"Please change another one" = "已有相同熱鍵,請更換";
+
+"Please set HotKey" = "請設置熱鍵";
+
+
+
+//CustomizedCell.m
+//---------------------------------
+"Delete" = "刪 除";
+
+
+//CFCreateViewController.m
+//---------------------------------
+"Create New" = "新增";
+
+"Custom" = "自訂";
+
+"Elite" = "菁英";
+
+
+//CFBackupViewController
+"Download..." = "下載中...";
+
+"Sharing..." = "分享中...";
+
+"WithDrawing..." = "回收中...";
+
+
+//Landing
+
+"Sniper Scanning..." = "Sniper 掃描中...";
+
+"Write Failed" = "讀取失敗";
+
+"Bluetooth not connected" = "藍芽未連線";
+
+"Disconnect" = "斷線";
+
+"Please try again" = "請再試一次";
+
+"Retry" = "重試";
+
+"Skip" = "跳過";
+
+"Hotkey:" = "熱鍵:";
+
+"Sniper Loading Config..." = "Sniper 讀取 Config...";
+
+"Sniper Loading Macro..." = "Sniper 讀取巨集...";
+
+"Sniper Connecting..." = "Sniper 連接中...";
+
+"Exit BrookSniper?" = "離開 BrookSniper?";
+
+"Back" = "返回";
+
+"Exit" = "離開";
+
+"This App Software License Agreement (the “Agreement”) is made by and between Zeroplus Technology Co., LTD., a Taiwan company, with offices at 3F., No.123, Jian 8th Rd., Zhonghe Dist., New Taipei City on behalf of it and the company or entity downloading, installing and/or using certain of Zeroplus’ Licensed Property(“Customer”). This Agreement is effective immediately upon installation of the Licensed Property (the “Effective Date”).\n\nEnd User License Agreement \nWhenever you download or use any APP published by Zeroplus, this End User License Agreement (“License”) applies to you. By downloading and/or using an App, you are agreeing to this License. If you don’t agree with any of these terms, you cannot download or use our Apps. \n\n1. Changes to this License \nWe reserve the right to change all or part of the License at any time. If we do that, we will post the changed terms to the same web page as the old terms. IF YOU CONTINUE TO USE AN APP AFTER WE POST CHANGED TERMS, THAT USE WILL CONSTITUTE YOUR ACCEPTANCE OF THE CHANGED TERMS. \n\n2. Changes to the Apps, Services and/or Fees \nWe are constantly evolving our products. This means we may change or discontinue an App (and/or our website and any of our other services) without notice or liability to you. We may decide to charge (or charge more) for an App and/or services that integrate with an App. \n\n3. License Grant \nSubject to the restrictions this License, Zeroplus grants you a non-exclusive, non-transferable, non-sublicensable, limited license to download, install and use in object code form a single copy of the App on each of your devices (e.g., your mobile phone, PDA, computer). Any attempt to use the App other than as permitted by this License will immediately terminate the license. \n 2/7 Except for the rights explicitly granted in this License, Zeroplus retains all right, title and interest (including all intellectual property rights) in the Apps, including the copies of the App on your devices. Zeroplus may use third-party software that is subject to open source and/or third-party license terms. You are subject to those terms. \n\n4. License Restrictions \nYou may not: \n• rent, lease, sublicense, sell, assign, loan, or otherwise transfer the App, your copy of the App or any of your rights and obligations under this License; \n• remove or destroy any copyright notices or other proprietary markings on the App; \n• reverse engineer, decompile, disassemble, modify or adapt the App, merge the App into another program, or create derivative works of the App; \n• use the App in any unlawful manner, for any unlawful purpose, or in any manner inconsistent with this License. \n\n5. Termination \nThis License will terminate automatically upon the earlier of: (a) your failure to comply with any term of this License (whether or not we inform you of this termination); (b) you deleting the App(s) from your devices; and (c) if your are using the App(s) in connection with a paid service, the end of the time period specified at time of purchase. In addition, Zeroplus may terminate this License at any time, for any reason or no reason. If this License terminates, you must stop using the App(s) and delete them from your devices. \n\n6. Compliance \nYou are solely responsible for compliance with any applicable laws and regulations and your own contractual obligations to third parties. \n\n7. Privacy policy \nIf you download and/or use an App, you are subject to our privacy policy which we will use data/information you provide us to our related services only. \n\n8. Transmission of Data/Updates \nUse of an App may involve the transmission of data over the Internet to Zeroplus and to and from third parties. If you elect to receive automatic updates, we will push updates to your devices but we will always notify you first. \n\n9. Trademarks \nCertain of the product and service names used in this License and in the App may constitute trademarks of Zeroplus or third parties. You are not authorized to use any such trademarks. All trademarks are the property of their respective owners. \n\n10. Miscellaneous \nThe Terms and this License are the entire agreement between you and Zeroplus relating to the Apps and they supersede all prior oral or written communications and representations with respect to any App or any other subject matter covered by this License.\n\n" = "本使用者授權合約（簡稱'本協定'）是為了使用孕龍科技股份有限公司所提供之軟體（簡稱'本軟體'），客戶（簡稱'使用者'或'客戶'）和台灣孕龍科技股份有限公司（簡稱'本許可方'或'本公司'）之間規定的法律上的協議。 本公司根據本協定，以及適用應用商城提供者（例如，Apple AppStore 或 Google Play。包含，但不限於此）的協定及方針（簡稱'協力廠商協定'），允許客戶使用本軟體。但，本公司不向客戶銷售本軟體，本軟體的著作權所有人始終為本公司。 客戶通過點擊下方'同意'鍵，同意接受約束客戶的本協定之條件。如客戶不接受本協定的內容，本公司則不授權客戶使用本軟體，客戶應立即停止使用。 \n\n本協定的具體內容 \n條款 \n1. 確認事項 \n2. 使用許可及其範圍 \n3. 許可限制 \n4. 使用限制 \n5. 智慧財產權 \n6. 責任限制及免責 \n7. 終止 \n8. 與本公司聯絡 \n9. 不可抗力 \n10. 其他條款 協議條件 \n\n1. 確認事項\n1. 本協議的條件，包括其更新或補充，適用本軟體。但該更新或補充伴隨有其他條件時除外。\n2. 客戶在下一次開始運行或使用本軟體時，本公司可以通過通知客戶的方式，隨時變更本協定的條件。新的條件或修改之合約將會公布於孕龍科技股份有限官方網站。 \n3. 本軟體通過應用商城提供者時時更新。客戶需要下載及更新本軟體至最新版本，並同意新的使用者授權合約，否則可能無法繼續使用本軟體。唯本公司不承擔更新本軟體的義務。 \n4. '包括'、'特別'、'例如'等用詞或同類用詞，是作為一個例子使用，並不限制相關用詞的普遍性含義。 \n\n2. 使用許可及其範圍\n1. 根據本條件及協力廠商協定，本公司同意授予客戶不可轉讓的非獨占的使用許可，允許客戶在智慧手機、平板電腦或其他型態電腦裝置（簡稱'設備'）上使用本軟體。本公司保留其他所有權利。 \n2. 客戶可將本軟體下載至客戶的設備上，僅以客戶的個人目的，在設備上閱覽、利用及顯示本軟體及其服務。 \n3. 為改進本軟體的功能，可能會自動收集非個人資訊或匿名資料。客戶同意這些非個人資訊或匿名資料，為功能改進之目的，讓本公司得以運用。 \n3. 許可限制 本協定明確規定或當地法律允許的情況除外，客戶同意以下內容。 \na. 不可將本軟體出租、租賃、轉讓權利、出借、翻譯、整合、改造、變更、或修改等。 \nb. 不對本軟體的全部或部分進行變更或修改，不允許將本軟體及其部分內容與其他程式結合，或嵌入其他程式。 \nc. 不可對本軟體的全部或部分進行反彙編、解編程式、反向工程、或根據本軟體製作派生軟體，或嘗試類似操作。 \n\n使用限制\n客戶必須遵守以下規定。 \na. 不可為了非法目的，以非法方式或與本協定不一致的方式，使用本軟體，或者以不正當方式或惡意使用本軟體。 \nb. 客戶使用本軟體（僅限該使用未得到本協定許可的情況），不可侵害本公司的智慧財產權或協力廠商的智慧財產權。 \nc. 不可用可能妨礙其他使用者的方法使用本軟體，使本公司或協力廠商系統安全遭受破壞，使其無法使用，以及過度施加負擔。 \n\n智慧財產權 \n客戶同意關於本軟體的所有智慧財產權不管在全世界任何地方都屬於本公司或本公司的許可方，本公司將本軟體的權利授予（並非銷售）客戶，除了根據本協定之條件使用本軟體的權利，客戶對本軟體不持有任何權利。 \n\n責任限制及免責 \n1. 本軟體並不是為了滿足客戶的個別需求開發的，因此客戶的責任是將本軟體及其功能進行改進以便確實滿足客戶的需求。 \n2. 本公司提供本軟體僅作為個人使用。客戶保證本軟體不會用於商業活動、開展業務或轉售等目的。 \n3. 本軟體的使用是屬於暫時許可，本公司保留不事先通知，撤回或修改本軟體的權利。本公司可隨時限制訪問本軟體的部分或全部以及本公司的註冊用戶。不管任何理由，客戶在某一時間或一定期間內無法訪問本軟體，本公司將不承擔任何責任。 \n4. 本軟體的提供，沒有對其正確性的保證及條件。本公司對客戶使用本軟體，或下載本軟體以及本軟體連結的網站所發送的內容，導致無法使用本軟體及服務的攻擊不承擔責任。 \n\n終止 \n1. 本公司保留隨時終止軟體更新、停止線上服務之權利。 \n2. 本協議終止時，無論任何理由： \ni. 根據本協定授權客戶的權利將會消失。\nii. 客戶必須立即終止由本協議所許可的所有活動（包括客戶使 用服務等）。 \n\n不可抗力 \n1. 本公司對超出本公司的合理控制範圍的行為或事由（如通訊網路故障、地震、火 災、颱風等等）（簡稱'不可抗力事由'）引起的不履行本協議或延遲履行，不承 擔責任。 \n2. 如發生了不可抗力，影響本公司根據本協定履行義務時，規定如下： \ni. 中斷本公司根據本協定的義務，本公司履行義務的期限一直延長至該不可抗力的存續期間。 \nii. 儘管是不可抗力，但本公司會做出合理的努力，以履行本協 議規定的本公司之義務。 \n\n其他條款 \n1. 本合約以中華民國法律為準據法。本協議之履行若有糾紛時，客戶及本公司雙方 同意以臺灣臺北地方法院為第一審管轄法院。 本合同在客戶點擊下方'同意'鍵之日起生效。\n\n";
+
+
+"APP SOFTWARE LICENSE AGREEMENT" = "使用者授權合約";
+
+
+
+//Home
+
+"Bluetooth connected" = "藍芽 已連線";
+
+"Bluetooth disconnected" = "藍芽 斷線";
+
+"Keyboard:" = "鍵盤:";
+
+//About
+
+"Copyright© Brook Design, LLC. All Rights Reserved" = "Copyright© Brook Design, LLC. All Rights Reserved";
+
+"APP Version:" = "APP版本:";
+
+"Latest" = "最新";
+
+"Firmware Version:" = "韌體版本:";
+
+"Update" = "更新";
+
+"www.brookaccessory.com\nbrook@brookaccessory.com" = "www.brookaccessory.com\nbrook@brookaccessory.com";
+
+//Help
+
+"Q&A" = "Q&A";
+
+"User guide" = "用戶指南";
+
+//Setting
+
+"Save" = "儲存";
+
+"Select language" = "選擇語言";
+
+//Help
+
+"Get" = "取得";
+
+"user guide.pdf" = "user guide.pdf";
+
+"Contact us" = "聯絡我們";
+
+"Go" = "前往";
+
+"Brook Contact Us Form" = "Brook Contact Us Form";
+
+"a. Question" = "%. Question";
+
+//Login
+
+"E-mail" = "E-mail";
+
+"Password" = "密碼";
+
+"Login" = "登入";
+
+"Remember me" = "記住帳號";
+
+"Logged in" = "已登入";
+
+"Login Success" = "登入成功";
+
+"Login Fail" = "登入失敗";
+
+"Regist Fail" = "註冊失敗";
+
+"Please agree term" = "請先同意條款";
+
+"Create\nAccount" = "建立\n帳號";
+
+"Forgot\nPassword" = "忘記\n密碼";
+
+"Connect fail" = "連線失敗";
+
+"Please check your wifi" = "請檢查您的網路";
+
+
+//E-mail格式不正確
+"E-mail incorrect" = "E-mail格式不正確";
+
+"Password length must between 6-20" = "密碼長度必須6-20字";
+
+"Comfirm password is not the same as password" = "確認密碼與密碼不符";
+
+"Comfirm" = "確定";
+
+"Log in fail" = "登入失敗";
+
+"OK" = "確定";
+
+"Setting" = "設定";
+"About" = "關於";
+"Help" = "幫助";
+
+
